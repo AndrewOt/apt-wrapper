@@ -15,4 +15,4 @@ There are three simple commands for `apt-wrapper`
 - `remove` - removes packages the system and the manifest
 - `restore` - installs all packages listed in the mainfest
 
-The manifest resides in the top level of the home directory. Simply back it up with the rest of your home directory and you're good to go!
+The manifest resides in the top level of the home directory. Simply back it up with the rest of your home directory, install `apt-wrapper`, run `apt-wrapper restore` and you're good to go!
